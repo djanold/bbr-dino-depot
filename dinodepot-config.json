@@ -98,7 +98,7 @@
       ]
     },
     {
-      "dinoType": "/SDinoVariants/S-Basilosaurus/S-Basilosaurus_Character_BP",
+      "dinoType": "/SDinoVariants/S-Basilosaurus/S-Basilosaurus_Character_BP.S-Basilosaurus_Character_BP",
       "chanceToProduce": 1,
       "produces": [
         {
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "dinoType": "/SDinoVariants/S-Bee/S-QueenBee_Character_BP",
+      "dinoType": "/SDinoVariants/S-Bee/S-QueenBee_Character_BP.S-QueenBee_Character_BP",
       "chanceToProduce": 1,
       "produces": [
         {
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "dinoType": "/ImprovedPhoenix/Dinos/ImprovedPhoenix_Character_BP.ImprovedPhoenix_Character_BP'",
+      "dinoType": "/ImprovedPhoenix/Dinos/ImprovedPhoenix_Character_BP.ImprovedPhoenix_Character_BP",
       "chanceToProduce": 1,
       "produces": [
         {
@@ -362,7 +362,7 @@
       ]
     },
     {
-      "dinoType": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Fire",
+      "dinoType": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Fire.S-Wyvern_Character_BP_Fire",
       "chanceToProduce": 1,
       "produces": [
         {
@@ -410,7 +410,7 @@
       ]
     },
     {
-      "dinoType": "/SDinoVariants/S-IceWyvern/S-Wyvern_Character_BP_Ice",
+      "dinoType": "/SDinoVariants/S-IceWyvern/S-Wyvern_Character_BP_Ice.S-Wyvern_Character_BP_Ice",
       "chanceToProduce": 1,
       "produces": [
         {
@@ -458,7 +458,7 @@
       ]
     },
     {
-      "dinoType": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Lightning",
+      "dinoType": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Lightning.S-Wyvern_Character_BP_Lightning",
       "chanceToProduce": 1,
       "produces": [
         {
@@ -506,7 +506,7 @@
       ]
     },
     {
-      "dinoType": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Poison",
+      "dinoType": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Poison.S-Wyvern_Character_BP_Poison",
       "chanceToProduce": 1,
       "produces": [
         {
@@ -530,7 +530,7 @@
       ]
     },
     {
-      "dinoType": "/NoUntameables/Cnidaria/Cnidaria_Character_BP_Tameable.Cnidaria_Character_BP_Tameable'",
+      "dinoType": "/NoUntameables/Cnidaria/Cnidaria_Character_BP_Tameable.Cnidaria_Character_BP_Tameable",
       "chanceToProduce": 1,
       "produces": [
         {
@@ -554,7 +554,7 @@
       ]
     },
     {
-      "dinoType": "/NoUntameables/Cnidaria/Cnidaria_Character_BP_Aberrant_Tameable.Cnidaria_Character_BP_Aberrant_Tameable'",
+      "dinoType": "/NoUntameables/Cnidaria/Cnidaria_Character_BP_Aberrant_Tameable.Cnidaria_Character_BP_Aberrant_Tameable",
       "chanceToProduce": 1,
       "produces": [
         {
@@ -578,7 +578,7 @@
       ]
     },
     {
-      "dinoType": "/NoUntameables/Cnidaria/Ocean_Cnidaria_Character_BP_Tameable.Ocean_Cnidaria_Character_BP_Tameable'",
+      "dinoType": "/NoUntameables/Cnidaria/Ocean_Cnidaria_Character_BP_Tameable.Ocean_Cnidaria_Character_BP_Tameable",
       "chanceToProduce": 1,
       "produces": [
         {
@@ -650,7 +650,7 @@
       ]
     },
     {
-      "dinoType": "/NoUntameables/Eurypterid/Euryp_Character_Tameable.Euryp_Character_Tameable'",
+      "dinoType": "/NoUntameables/Eurypterid/Euryp_Character_Tameable.Euryp_Character_Tameable",
       "chanceToProduce": 1,
       "produces": [
         {
@@ -686,7 +686,7 @@
       ]
     },
     {
-      "dinoType": "/NoUntameables/Eurypterid/Euryp_Character_Aberrant_Tameable.Euryp_Character_Aberrant_Tameable'",
+      "dinoType": "/NoUntameables/Eurypterid/Euryp_Character_Aberrant_Tameable.Euryp_Character_Aberrant_Tameable",
       "chanceToProduce": 1,
       "produces": [
         {
@@ -746,7 +746,7 @@
       ]
     },
     {
-      "dinoType": "/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Male_Tamed.Xenomorph_Character_BP_Male_Tamed'",
+      "dinoType": "/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Male_Tamed.Xenomorph_Character_BP_Male_Tamed",
       "chanceToProduce": 1,
       "produces": [
         {
@@ -770,7 +770,7 @@
       ]
     },
     {
-      "dinoType": "/SDinoVariants/S-Reaper/S-Xenomorph_Character_BP_Male_Tamed.S-Xenomorph_Character_BP_Male_Tamed'",
+      "dinoType": "/SDinoVariants/S-Reaper/S-Xenomorph_Character_BP_Male_Tamed.S-Xenomorph_Character_BP_Male_Tamed",
       "chanceToProduce": 1,
       "produces": [
         {
@@ -794,7 +794,7 @@
       ]
     },
     {
-      "dinoType": "/NoUntameables/Extra/SDinoVariants/S-Xenomorph_Character_BP_Female_Tamed.S-Xenomorph_Character_BP_Female_Tamed'",
+      "dinoType": "/NoUntameables/Extra/SDinoVariants/S-Xenomorph_Character_BP_Female_Tamed.S-Xenomorph_Character_BP_Female_Tamed",
       "chanceToProduce": 1,
       "produces": [
         {
@@ -818,7 +818,7 @@
       ]
     },
     {
-      "dinoType": "/NoUntameables/NamelessQueen/Xenomorph_Character_BP_Female_Tamed.Xenomorph_Character_BP_Female_Tamed'",
+      "dinoType": "/NoUntameables/NamelessQueen/Xenomorph_Character_BP_Female_Tamed.Xenomorph_Character_BP_Female_Tamed",
       "chanceToProduce": 1,
       "produces": [
         {
