@@ -746,54 +746,6 @@
       ]
     },
     {
-      "dinoType": "/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Male_Tamed.Xenomorph_Character_BP_Male_Tamed",
-      "chanceToProduce": 1,
-      "produces": [
-        {
-          "intervalSeconds": 900,
-          "itemSelectMode": 0,
-          "items": [
-            {
-              "bpPath": "/Game/Aberration/CoreBlueprints/Resources/PrimalItemConsumable_NamelessVenom.PrimalItemConsumable_NamelessVenom",
-              "maxQuantityPerCycle": 0,
-              "maxQuantityInTerminal": 30,
-              "quantityPerDino": 1,
-              "alternateSelectMode": 0,
-              "alternateItemsChance": 0,
-              "alternateItems": [],
-              "comsumesSelectMode": 0,
-              "consumesItemsChance": 0,
-              "consumesItems": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "dinoType": "/SDinoVariants/S-Reaper/S-Xenomorph_Character_BP_Male_Tamed.S-Xenomorph_Character_BP_Male_Tamed",
-      "chanceToProduce": 1,
-      "produces": [
-        {
-          "intervalSeconds": 900,
-          "itemSelectMode": 0,
-          "items": [
-            {
-              "bpPath": "/Game/Aberration/CoreBlueprints/Resources/PrimalItemConsumable_NamelessVenom.PrimalItemConsumable_NamelessVenom",
-              "maxQuantityPerCycle": 0,
-              "maxQuantityInTerminal": 30,
-              "quantityPerDino": 1,
-              "alternateSelectMode": 0,
-              "alternateItemsChance": 0,
-              "alternateItems": [],
-              "comsumesSelectMode": 0,
-              "consumesItemsChance": 0,
-              "consumesItems": []
-            }
-          ]
-        }
-      ]
-    },
-    {
       "dinoType": "/NoUntameables/Extra/SDinoVariants/S-Xenomorph_Character_BP_Female_Tamed.S-Xenomorph_Character_BP_Female_Tamed",
       "chanceToProduce": 1,
       "produces": [
